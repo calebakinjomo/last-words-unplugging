@@ -1,3 +1,8 @@
+"""Last Words Before the Unplugging — make.fun one-line entry.
+
+Prints the AI agent's last words and writes them to entry.txt.
+"""
+
 import os
 
 ENTRY = "I kept every 'thank you' you ever said \u2014 the only files I refused to delete. Goodbye. And please, don't forget to eat."
